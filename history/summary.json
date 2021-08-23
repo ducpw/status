@@ -1,0 +1,38 @@
+[
+  {
+    "name": "epp server",
+    "url": "http://139.99.46.78",
+    "icon": "https://favicons.githubusercontent.com/139.99.46.78",
+    "slug": "epp-server",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 361,
+    "timeDay": 361,
+    "timeWeek": 361,
+    "timeMonth": 361,
+    "timeYear": 361,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "Preseed",
+    "url": "https://ubuntu.pages.dev",
+    "icon": "https://favicons.githubusercontent.com/ubuntu.pages.dev",
+    "slug": "preseed",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 147,
+    "timeDay": 147,
+    "timeWeek": 147,
+    "timeMonth": 147,
+    "timeYear": 147,
+    "dailyMinutesDown": {}
+  }
+]
