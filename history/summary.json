@@ -5,11 +5,11 @@
     "icon": "https://favicons.githubusercontent.com/139.99.46.78",
     "slug": "epp-server",
     "status": "up",
-    "uptime": "33.00%",
+    "uptime": "33.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.52%",
-    "uptimeMonth": "46.60%",
-    "uptimeYear": "33.00%",
+    "uptimeMonth": "47.77%",
+    "uptimeYear": "33.49%",
     "time": 824,
     "timeDay": 2005,
     "timeWeek": 2199,
@@ -59,7 +59,7 @@
     "url": "https://ubuntu.pages.dev",
     "icon": "https://favicons.githubusercontent.com/ubuntu.pages.dev",
     "slug": "preseed",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -70,6 +70,8 @@
     "timeWeek": 131,
     "timeMonth": 115,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-11": 0
+    }
   }
 ]
