@@ -5,14 +5,14 @@
     "icon": "https://favicons.githubusercontent.com/139.99.46.78",
     "slug": "epp-server",
     "status": "up",
-    "uptime": "67.19%",
+    "uptime": "67.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "68.14%",
-    "time": 480,
-    "timeDay": 410,
-    "timeWeek": 420,
+    "uptimeYear": "68.40%",
+    "time": 479,
+    "timeDay": 395,
+    "timeWeek": 418,
     "timeMonth": 410,
     "timeYear": 480,
     "dailyMinutesDown": {
@@ -140,8 +140,7 @@
       "2021-09-04": 1440,
       "2021-09-03": 1440,
       "2021-09-02": 1440,
-      "2021-09-01": 1399,
-      "2021-08-30": 219
+      "2021-09-01": 1399
     }
   },
   {
@@ -156,10 +155,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 140,
-    "timeDay": 131,
-    "timeWeek": 126,
+    "timeDay": 105,
+    "timeWeek": 118,
     "timeMonth": 115,
-    "timeYear": 140,
+    "timeYear": 141,
     "dailyMinutesDown": {
       "2022-07-01": 133,
       "2022-06-30": 65,
