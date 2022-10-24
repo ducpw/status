@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/139.99.46.78.ico",
     "slug": "epp-server",
     "status": "up",
-    "uptime": "71.43%",
+    "uptime": "71.50%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.45%",
+    "uptimeYear": "77.72%",
     "time": 471,
-    "timeDay": 447,
-    "timeWeek": 434,
-    "timeMonth": 408,
+    "timeDay": 456,
+    "timeWeek": 443,
+    "timeMonth": 406,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2022-08-07": 15,
@@ -101,8 +101,7 @@
       "2021-10-28": 1440,
       "2021-10-27": 1440,
       "2021-10-26": 1440,
-      "2021-10-25": 1440,
-      "2021-10-24": 1440
+      "2021-10-25": 1440
     }
   },
   {
@@ -117,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 139,
-    "timeDay": 126,
-    "timeWeek": 145,
-    "timeMonth": 148,
+    "timeDay": 98,
+    "timeWeek": 144,
+    "timeMonth": 147,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2022-07-01": 133,
