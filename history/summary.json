@@ -4,8 +4,8 @@
     "url": "http://139.99.46.78",
     "icon": "https://icons.duckduckgo.com/ip3/139.99.46.78.ico",
     "slug": "epp-server",
-    "status": "up",
-    "uptime": "57.53%",
+    "status": "down",
+    "uptime": "57.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
@@ -16,6 +16,7 @@
     "timeMonth": 406,
     "timeYear": 415,
     "dailyMinutesDown": {
+      "2023-06-14": 0,
       "2023-05-15": 72,
       "2023-05-13": 1001,
       "2023-05-12": 1440,
